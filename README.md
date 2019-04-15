@@ -1,2 +1,1 @@
-# knowledge-base
-wiki for state-specific research
+See [https://github.com/OpenPrecincts/knowledge-base/wiki](https://github.com/OpenPrecincts/knowledge-base/wiki)
